@@ -1,9 +1,9 @@
-version: 0.1.1
+version: 0.1.0
 files:
-  - url: history-Setup-0.1.1.exe
-    sha512: 5WlsZPJHcLAU84sSs08et4wLNLhIbYdIDhHOe53fJNPLPePmqmpkBAC7HSotLvlA0HAaf8r7GjsA1dbdFtjN9g==
-    size: 66665197
+  - url: history-Setup-0.1.0.exe
+    sha512: JFhXqk92A2znLqMt3xDgVC0Y/fHTQc8IdvSg5KVNPQtWktnsyPZCAIfCMm3oRoCCD54oMXR7eV+SQ9obFehHZg==
+    size: 66691839
     isAdminRightsRequired: true
-path: history-Setup-0.1.1.exe
-sha512: 5WlsZPJHcLAU84sSs08et4wLNLhIbYdIDhHOe53fJNPLPePmqmpkBAC7HSotLvlA0HAaf8r7GjsA1dbdFtjN9g==
-releaseDate: '2020-10-10T05:58:20.158Z'
+path: history-Setup-0.1.0.exe
+sha512: JFhXqk92A2znLqMt3xDgVC0Y/fHTQc8IdvSg5KVNPQtWktnsyPZCAIfCMm3oRoCCD54oMXR7eV+SQ9obFehHZg==
+releaseDate: '2020-10-10T07:02:48.243Z'
